@@ -9,3 +9,4 @@ import com.lic.Springbootinsurancemanagementplatform.dto.InsurancePolicy;
 public interface InsurancePolicyRepository extends JpaRepository<InsurancePolicy, Integer>{
 
 }
+//
