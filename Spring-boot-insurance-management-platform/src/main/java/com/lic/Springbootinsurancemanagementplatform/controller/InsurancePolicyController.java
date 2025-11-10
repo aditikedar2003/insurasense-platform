@@ -53,3 +53,4 @@ public class InsurancePolicyController {
 		return insurancePolicyService.displayAllPolicy();
 	}	
 }
+//
