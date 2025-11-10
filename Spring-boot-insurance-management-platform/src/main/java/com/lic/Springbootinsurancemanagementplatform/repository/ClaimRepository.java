@@ -9,3 +9,4 @@ import com.lic.Springbootinsurancemanagementplatform.dto.Claim;
 public interface ClaimRepository extends JpaRepository<Claim, Integer>{
 
 }
+//
