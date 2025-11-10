@@ -54,3 +54,4 @@ public class ClaimDao {
 		return claimRepository.findAll();
 	}
 }
+//
