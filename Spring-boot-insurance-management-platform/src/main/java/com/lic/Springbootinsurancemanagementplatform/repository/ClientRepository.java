@@ -9,3 +9,4 @@ import com.lic.Springbootinsurancemanagementplatform.dto.Client;
 public interface ClientRepository extends JpaRepository<Client, Integer>{
 
 }
+//
